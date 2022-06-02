@@ -1,0 +1,36 @@
+{
+  "countries": [
+    {
+      "name": "india"
+    },
+    {
+      "name": "china"
+    }
+  ],
+  "cities": [
+    {
+      "city": "New-York",
+      "country": "USA",
+      "population": "1330000",
+      "id": 2
+    },
+    {
+      "city": "Beijing",
+      "country": "China",
+      "population": "18000000",
+      "id": 3
+    },
+    {
+      "city": "Pune",
+      "country": "India",
+      "population": "12000000",
+      "id": 4
+    },
+    {
+      "city": "Delhi",
+      "country": "India",
+      "population": "17000000",
+      "id": 5
+    }
+  ]
+}
